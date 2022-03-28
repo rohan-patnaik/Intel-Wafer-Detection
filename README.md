@@ -1,2 +1,2 @@
-# Intel-wafer-detection
+# Intel-Wafer-Detection
 This project is used to...... 
